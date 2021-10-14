@@ -1,6 +1,6 @@
 /*body*/
 body{
-    background-image: url("https://abhisshek717.github.io/one.jpg");
+    background-image: url("./one.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
